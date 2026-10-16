@@ -13,6 +13,6 @@ Vi får en R²-score på 0,77 som viser en sterk sammenheng mellom havdyp og tem
 Dataene er ikke lineær, men flater ut nedover i dypet.
 I virkeligheten er havet mye mer komplekst - datasettet består av 74 kolonner.
 
-Som en første tilnærming så kan vi bekrefte hypotesen at temperaturen er sterkt
+Som en første tilnærming så kan vi bekrefte hypotesen om at temperaturen er sterkt
 avhengig av dybden. 
 
